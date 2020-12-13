@@ -1,0 +1,63 @@
+body {
+    background-color: rgb(46, 46, 46); margin: 50px 200px 200px 200px; 
+	} /* esse é o stilo das paginas */
+
+div {
+	width: 700px; height: 150px; background-color: rgb(163, 163, 163); padding: 30px 20px 140px 35px; border-radius: 20px; 
+	} /* esse é o stilo das divisões de conteudo */
+
+#titulo {
+	background-color: white; border-radius: 20px; padding: 1px 5px 45px 10px; width:650px; height: 25px; text-align: center; 
+	color: navy;
+	} /*esse é o stilo dos titulos*/ 
+
+p {
+	font-size: 17px; color: ;
+	} /*esse é o stilo do conteudo */
+
+h1 {
+	color: steelblue; 
+} /* esse é o stilo dos titulos */
+
+img {
+	border-radius:30px
+	}
+
+/* cabeçario */
+.cabeçario {
+	background-color: darkslateblue; width:800px; height: 50px; padding: 10px 20px 5px 40px;
+	}
+
+.titulo-do-cabeçario {
+	color: white; font-size: 35px;
+	}
+
+.cabeçario2 {
+	
+	}
+ 
+/* titulos */
+.titulo1 {
+	color: navy;
+	}
+	
+/* divs*/
+
+.lista {
+	width: 400px; height: 430px
+	}
+
+.roda-pe {
+	background-color: darkslateblue; width:700px; height: 50px; padding: 10px 20px 5px 40px;
+	}
+
+\
+.titulo2 {
+	background-color: white; border-radius: 20px; padding: 1px 5px 45px 10px; width:700px; height: 25px; text-align: center; 
+	color: navy;
+	}
+
+ /* links */
+.linkzinho {
+	color: white; font-size: 30px; {
+	}
